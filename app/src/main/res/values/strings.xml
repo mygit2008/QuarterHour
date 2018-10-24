@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">QuarterHour</string>
+    <string name="app_name">斗鱼TV</string>
+    <string name="day_night_label">日间模式</string>
 </resources>
